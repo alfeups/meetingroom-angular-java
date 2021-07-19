@@ -24,8 +24,6 @@
 
 <li>JQuery;
 
-
-
 # Possiveis erros no processo
 
 ## Bootstrap no node_modules faltando:
